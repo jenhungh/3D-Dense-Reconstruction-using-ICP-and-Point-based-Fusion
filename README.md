@@ -3,7 +3,7 @@
 ### Environment Setup
 To run the code, set up the conda environment using the command
 ```bash
-conda env create --name envname --file=environments.yml
+conda create --name <env> --file=requirements.txt
 ```
 
 ### Download the VQA Dataset
