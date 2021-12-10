@@ -1,4 +1,4 @@
-# High quality, fast, modular reference implementation of SSD in PyTorch 1.0
+# 16-824 Project - Object Detection on Blurry Images
 
 
 This repository implements [SSD (Single Shot MultiBox Detector)](https://arxiv.org/abs/1512.02325). The implementation is heavily influenced by the projects [ssd.pytorch](https://github.com/amdegroot/ssd.pytorch), [pytorch-ssd](https://github.com/qfgaohao/pytorch-ssd) and [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark). This repository aims to be the code base for researches based on SSD.
